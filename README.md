@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Paresh Mevada
+## 💻 About Me
+I'm a React JS Developer passionate about building interactive and responsive web applications.  
+I focus on clean code, performance, and modern UI/UX.  
 
-<!--
-**paresh-2002/paresh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- ⚛️ React.js | Redux | Context API
+- 🟨 JavaScript (ES6+)
+- 🌐 HTML5 | CSS3 | Tailwind CSS | Bootstrap
+- 🔗 REST APIs | Axios
+- 🛠 Git & GitHub | VS Code  
 
-Here are some ideas to get you started:
+## 🚀 Projects & Work
+I build:
+- E-commerce apps with cart & payment integration
+- Responsive landing pages
+- CRUD & dashboard apps
+- Chat & social apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 🌐 Portfolio: https://portfolio-three-beige-53.vercel.app/
+- 🔗 LinkedIn: https://www.linkedin.com/in/paresh-mevada-0a7831260/
+- 📧 Email: paresh.ay99099@gmail.com
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
