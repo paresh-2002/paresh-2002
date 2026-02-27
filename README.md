@@ -23,4 +23,4 @@ I build:
 - 📧 Email: paresh.ay99099@gmail.com
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paresh-2002&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paresh-2002&show_icons=true&theme=radical)](https://github.com/paresh-2002)
